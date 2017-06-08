@@ -50,6 +50,7 @@ $reportBody += Get-HTMLColumn1of2
         $reportBody += Get-HTMLContentText -Heading "Serial Number" -Detail (Get-WmiObject win32_bios -ComputerName $computer ).serialnumber
         $reportBody += Get-HTMLContentText -Heading "Workstation Type" -Detail $product
         $reportBody += Get-HTMLContentText -Heading "Uptime" -Detail $uptime #not very neat
+        $reportBody += Get-HTMLContentText -Heading "IP Address" -Detail ((ipconfig | findstr [0-9].\.)[0]).Split()[-1]
     $reportBody += Get-HTMLContentClose
 $reportBody += Get-HTMLColumnClose
 
