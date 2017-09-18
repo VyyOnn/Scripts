@@ -1,0 +1,58 @@
+Internal links  
+
+<style type="text/css">
+.tiles:hover {opacity: 0.5;}
+.tiles {width: 100px; height: 100px; margin-right: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); display: inline-block;}
+a, img {text-decoration: none;}
+</style>
+
+ <!--Device42-->
+<a href="https://10.1.100.42" target="_blank"><img class="tiles" title="DCIM" src="https://vionit.atlassian.net/wiki/download/attachments/745904/dev42.png?version=1&amp;modificationDate=1501204299894&amp;cacheVersion=1&amp;api=v2"/></a>
+
+<!--vCenter-->
+<a href="https://vionits-vc1.vionits.com" target="_blank"><img class="tiles" title="vSphere Web Client" src="https://vionit.atlassian.net/wiki/download/attachments/745904/vcenterlogo.png?version=1&modificationDate=1502131373314&cacheVersion=1&api=v2"/></a>
+
+ <!--RDSweb-->
+<a href="https://remoteapp.vion.com" target="_blank"><img class="tiles" title="Remoteapp" src="https://vionit.atlassian.net/wiki/download/attachments/745904/rds.png?version=1&amp;modificationDate=1501358266359&amp;cacheVersion=1&amp;api=v2"/></a>
+
+<!--Hyper-V Lab-->
+<a href="https://vionit.atlassian.net/wiki/download/attachments/235883/hvlab.rdp?api=v2" target="_blank"><img class="tiles" title="Lab & SmartDeploy Host" src="https://vionit.atlassian.net/wiki/download/thumbnails/745904/hyperv.png?version=1&modificationDate=1501381076023&cacheVersion=1&api=v2&height=250"/></a>
+
+<!--SEPM-->
+<a href="https://vion-sepm01:8443/console/apps/sepm" target="_blank"><img class="tiles" title="SEP Manager" src="https://vionit.atlassian.net/wiki/download/attachments/745904/symantec-endpoint-protection-icon-logo.png?version=1&modificationDate=1501383274185&cacheVersion=1&api=v2"/></a>
+
+<!--WUG-->
+<a href="http://10.1.5.11/NmConsole/#home" target="_blank"><img class="tiles" title="Monitoring" src="https://vionit.atlassian.net/wiki/download/attachments/745904/ipswitch_logo_rgb_300ppi.jpg?version=1&modificationDate=1501385177772&cacheVersion=1&api=v2"/></a>
+
+<!--Casper-->
+<a href="https://jss.vion.com:8443/" target="_blank"><img class="tiles" title="Casper" src="http://technologyadvice.com/wp-content/uploads/2014/01/JAMF-Software-Logo.png"/></a>
+
+<!--Nessus-->
+<a href="https://10.1.5.12:8834/#//" target="_blank"><img class="tiles" title="Nessus" src="https://vionit.atlassian.net/wiki/download/attachments/745904/tenable.png?version=1&modificationDate=1501877356383&cacheVersion=1&api=v2"/></a>
+
+<!--Blade Chassis-->
+<a href="http://192.168.252.68" target="_blank"><img class="tiles" title="Blade Chassis Web Console" src="https://vionit.atlassian.net/wiki/download/attachments/745904/hitachi.png?version=1&modificationDate=1501879066670&cacheVersion=1&api=v2"/></a>
+
+<!--Tintri T-880-->
+<a href="http://192.168.252.209" target="_blank"><img class="tiles" title="Tintri" src="https://vionit.atlassian.net/wiki/download/attachments/745904/tintri.jpg?version=1&modificationDate=1501879626482&cacheVersion=1&api=v2"/></a>
+
+<!--Cisco WLC-->
+<a href="https://172.17.0.253" target="_blank"><img class="tiles" title="WLC" src="https://vionit.atlassian.net/wiki/download/attachments/745904/cisco.png?version=1&modificationDate=1502130670688&cacheVersion=1&api=v2"/></a>
+
+
+External links 
+
+<style type="text/css">
+.tiles:hover {opacity: 0.5;}
+.tiles {width: 100px; height: 100px; margin-right: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); display: inline-block;}
+a, img {text-decoration: none;}
+</style>
+
+ <!--OneLogin-->
+<a href="https://vion.onelogin.com" target="_blank"><img class="tiles" title="Cloud SSO" src="https://vionit.atlassian.net/wiki/download/attachments/745904/onelogin-logo.png?version=1&modificationDate=1502129092497&cacheVersion=1&api=v2"/></a>
+
+<!--Keepersecurity-->
+<a href="https://keepersecurity.com/vault/#" target="_blank"><img class="tiles" title="Keeper Vault" src="https://vionit.atlassian.net/wiki/download/attachments/745904/keeper_logo.png?version=1&modificationDate=1502129087383&cacheVersion=1&api=v2"/></a>
+
+<!--KeeperAdmin-->
+<a href="https://keepersecurity.com/en_US/console/#login" target="_blank"><img class="tiles" title="Keeper Admin Console" src="https://vionit.atlassian.net/wiki/download/thumbnails/745904/keepervault.png?version=1&modificationDate=1502129089565&cacheVersion=1&api=v2&height=250"/></a>
